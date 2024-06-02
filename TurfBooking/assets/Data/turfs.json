@@ -1,0 +1,975 @@
+[
+    {
+      "id": "0",
+      "place": "Bangalore",
+      "placeImage": "https://www.providentdeensgate.net.in/images/provident/electronic-city-in-bangalore.webp",
+      "shortDescription": "City in Karnataka, India",
+      "properties": [
+        {
+          "id": "10",
+          "name": "Zeke Turf and Foodball Academy",
+          "image": "https://us.123rf.com/450wm/koltukovalek/koltukovalek1807/koltukovalek180700048/104758503-football-logo-badge-isolated-on-white-background-football-club-emblem-template-with-soccer-ball-and.jpg?ver=6",
+          "rating": 3.6,
+          "address": "346, Hennur Main Road, Post, Kalyan Nagar, 560043 Bangalore, India",
+          "oldPrice": 4600,
+          "newPrice": 3312,
+          "latitude": "13.0359",
+          "longitude": "77.6431",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "100",
+              "image": "https://5.imimg.com/data5/SELLER/Default/2021/10/LV/MR/OP/103253819/final-ground-agra-500x500.jpg"
+            },
+            {
+              "id": "101",
+              "image": "https://5.imimg.com/data5/SELLER/Default/2023/6/313935326/AV/SG/BJ/5974440/artificial-turf-500x500.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "place": "Mumbai",
+      "placeImage": "https://www.holidaymonk.com/wp-content/uploads/2022/04/Gateway-Of-India-MUMBAI.jpg",
+      "shortDescription": "City in Maharashtra, India",
+      "properties": [
+        {
+          "id": "11",
+          "name": "The Mumbai Movement",
+          "image": "https://static.wixstatic.com/media/578286_04f83214ec3a4ea58a949f665b27c74b~mv2.png/v1/fill/w_152,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/bigger_logo_with_circles.png",
+          "rating": 4.2,
+          "address": "123 Marine Drive, 400020 Mumbai, India",
+          "oldPrice": 5200,
+          "newPrice": 4000,
+          "latitude": "18.9440",
+          "longitude": "72.8236",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "102",
+              "image": "https://5.imimg.com/data5/SELLER/Default/2022/12/GT/XH/CW/2451824/cricket-turf.jpg"
+            },
+            {
+              "id": "103",
+              "image": "https://www.dugoutchennai.com/wp-content/uploads/2022/12/fustal1-1024x1024.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "place": "Chennai",
+      "placeImage": "https://vj-prod-website-cms.s3.ap-southeast-1.amazonaws.com/1765681589chennai-1696645169332.jpg",
+      "shortDescription": "City in Tamil Nadu, India",
+      "properties": [
+        {
+          "id": "12",
+          "name": "Blue Star Turf",
+          "image": "https://seeklogo.com/images/B/blue-star-logo-FBDAE83125-seeklogo.com.png",
+          "rating": 5,
+          "address": "56 Mount Road, 600002 Chennai, India",
+          "oldPrice": 4500,
+          "newPrice": 3800,
+          "latitude": "13.0827",
+          "longitude": "80.2707",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "104",
+              "image": "https://staging-stc.site-ym.com/resource/resmgr/images/guidelines-sports.jpg"
+            },
+            {
+              "id": "105",
+              "image": "https://content.jdmagicbox.com/comp/mumbai/p8/022pxx22.xx22.220811180605.h5p8/catalogue/enc-sports-turf-jk-gram-thane-west-mumbai-yhq2pyqds4.jpg?clr=145229"
+            },
+            {
+              "id": "106",
+              "image": "https://img3.khelomore.com/venues/902/images/1040x490/fivenine1.jpg"
+            },
+            {
+              "id": "107",
+              "image": "https://www.gwsportsapp.in/media/ground-images/gallery/MC45MTczMTIwMCAxNjI5MjgyNTQ4.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "name": "Chennai Turf",
+          "image": "https://seeklogo.com/images/B/blue-star-logo-FBDAE83125-seeklogo.com.png",
+          "rating": 2.4,
+          "address": "56 Mount Road, 600002 Chennai, India",
+          "oldPrice": 1500,
+          "newPrice": 1200,
+          "latitude": "12.956660949516925",
+          "longitude": "79.9404867432192",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "104",
+              "image": "https://staging-stc.site-ym.com/resource/resmgr/images/guidelines-sports.jpg"
+            },
+            {
+              "id": "105",
+              "image": "https://content.jdmagicbox.com/comp/mumbai/p8/022pxx22.xx22.220811180605.h5p8/catalogue/enc-sports-turf-jk-gram-thane-west-mumbai-yhq2pyqds4.jpg?clr=145229"
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "name": "Manjumel Boys Turf",
+          "image": "https://seeklogo.com/images/B/blue-star-logo-FBDAE83125-seeklogo.com.png",
+          "rating": 3.8,
+          "address": "56 Mount Road, 600002 Chennai, India",
+          "oldPrice": 4800,
+          "newPrice": 2900,
+          "latitude": "12.900390237095126",
+          "longitude": "80.0820922572844",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "104",
+              "image": "https://staging-stc.site-ym.com/resource/resmgr/images/guidelines-sports.jpg"
+            },
+            {
+              "id": "105",
+              "image": "https://content.jdmagicbox.com/comp/mumbai/p8/022pxx22.xx22.220811180605.h5p8/catalogue/enc-sports-turf-jk-gram-thane-west-mumbai-yhq2pyqds4.jpg?clr=145229"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "name": "Junior CSK Turf",
+          "image": "https://seeklogo.com/images/B/blue-star-logo-FBDAE83125-seeklogo.com.png",
+          "rating": 4,
+          "address": "56 Mount Road, 600002 Chennai, India",
+          "oldPrice": 4500,
+          "newPrice": 4100,
+          "latitude": "13.067802024471378",
+          "longitude": "80.1676907368234",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "104",
+              "image": "https://staging-stc.site-ym.com/resource/resmgr/images/guidelines-sports.jpg"
+            },
+            {
+              "id": "105",
+              "image": "https://content.jdmagicbox.com/comp/mumbai/p8/022pxx22.xx22.220811180605.h5p8/catalogue/enc-sports-turf-jk-gram-thane-west-mumbai-yhq2pyqds4.jpg?clr=145229"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "place": "Hyderabad",
+      "placeImage": "https://media-cdn.tripadvisor.com/media/photo-m/1280/0f/98/f7/df/charminar.jpg",
+      "shortDescription": "City in Telangana, India",
+      "properties": [
+        {
+          "id": "13",
+          "name": "Hyderabad Inn",
+          "image": "https://cdn.9sportz.com/webcontent/upload/fbphotos/553652820129810.jpg",
+          "rating": 3.8,
+          "address": "89 Banjara Hills, 500034 Hyderabad, India",
+          "oldPrice": 4700,
+          "newPrice": 3500,
+          "latitude": "17.3850",
+          "longitude": "78.4867",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "106",
+              "image": "https://img3.khelomore.com/venues/902/images/1040x490/fivenine1.jpg"
+            },
+            {
+              "id": "107",
+              "image": "https://www.gwsportsapp.in/media/ground-images/gallery/MC45MTczMTIwMCAxNjI5MjgyNTQ4.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "place": "Pune",
+      "placeImage": "https://t4.ftcdn.net/jpg/04/86/19/31/360_F_486193165_AJdPgfdEkJhfSE5KBRSq6p1ASLmidsaO.jpg",
+      "shortDescription": "City in Maharashtra, India",
+      "properties": [
+        {
+          "id": "14",
+          "name": "Pune Residency",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556680.jpg?k=99c7eabf2ec8ebd6e7f993e1cbf7c4d3683038a0fd142086dc017c4fc0b8e5a3&o=&hp=1",
+          "rating": 4.1,
+          "address": "21 Koregaon Park, 411001 Pune, India",
+          "oldPrice": 4900,
+          "newPrice": 3700,
+          "latitude": "18.5204",
+          "longitude": "73.8567",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "108",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556680.jpg?k=99c7eabf2ec8ebd6e7f993e1cbf7c4d3683038a0fd142086dc017c4fc0b8e5a3&o=&hp=1"
+            },
+            {
+              "id": "109",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556681.jpg?k=99c7eabf2ec8ebd6e7f993e1cbf7c4d3683038a0fd142086dc017c4fc0b8e5a3&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "place": "Mohali",
+      "placeImage": "https://static.india.com/wp-content/uploads/2021/03/MOHALI-STADIUM.png",
+      "shortDescription": "City in Punjab, India",
+      "properties": [
+        {
+          "id": "15",
+          "name": "Mohali Moti",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556682.jpg?k=c5cfb6cddfa1b6f6d3b7fbe6b00d5b0f2a354f6e5b6e42a8495e3d254d1f5e37&o=&hp=1",
+          "rating": 3.9,
+          "address": "Sahibzada Ajit Singh Nagar,Punjab, India",
+          "oldPrice": 4800,
+          "newPrice": 3600,
+          "latitude": "30.7046",
+          "longitude": "76.7179",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "110",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556682.jpg?k=c5cfb6cddfa1b6f6d3b7fbe6b00d5b0f2a354f6e5b6e42a8495e3d254d1f5e37&o=&hp=1"
+            },
+            {
+              "id": "111",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556683.jpg?k=c5cfb6cddfa1b6f6d3b7fbe6b00d5b0f2a354f6e5b6e42a8495e3d254d1f5e37&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "place": "Delhi",
+      "placeImage": "https://deih43ym53wif.cloudfront.net/Rajpath-delhi-shutterstock_1195751923.jpg_7647e1aad2.jpg",
+      "shortDescription": "Capital city of India",
+      "properties": [
+        {
+          "id": "16",
+          "name": "Delhi Delight",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556684.jpg?k=0d5a0f2cf75e4f4b6b3b8d4a5f9de3c1b5a1efdf1d998fd7875f8742d1127265&o=&hp=1",
+          "rating": 4.3,
+          "address": "87 Connaught Place, 110001 Delhi, India",
+          "oldPrice": 5300,
+          "newPrice": 4000,
+          "latitude": "28.6139",
+          "longitude": "77.2090",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "112",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556684.jpg?k=0d5a0f2cf75e4f4b6b3b8d4a5f9de3c1b5a1efdf1d998fd7875f8742d1127265&o=&hp=1"
+            },
+            {
+              "id": "113",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556685.jpg?k=0d5a0f2cf75e4f4b6b3b8d4a5f9de3c1b5a1efdf1d998fd7875f8742d1127265&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "place": "Ahmedabad",
+      "placeImage": "https://i.ytimg.com/vi/vcXQ43k-JBg/hqdefault.jpg",
+      "shortDescription": "City in Gujarat, India",
+      "properties": [
+        {
+          "id": "17",
+          "name": "Ahmedabad Hub",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556686.jpg?k=bcf79f6d1e0fd29c11e5af54d9050c432d4b8e3a5b0411e2d8dba7882d1e8749&o=&hp=1",
+          "rating": 3.7,
+          "address": "12 Ashram Road, 380009 Ahmedabad, India",
+          "oldPrice": 4700,
+          "newPrice": 3400,
+          "latitude": "23.0225",
+          "longitude": "72.5714",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "114",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556686.jpg?k=bcf79f6d1e0fd29c11e5af54d9050c432d4b8e3a5b0411e2d8dba7882d1e8749&o=&hp=1"
+            },
+            {
+              "id": "115",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556687.jpg?k=bcf79f6d1e0fd29c11e5af54d9050c432d4b8e3a5b0411e2d8dba7882d1e8749&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "place": "Jaipur",
+      "placeImage": "https://img.veenaworld.com/wp-content/uploads/2022/03/Wondering-Whats-The-Best-Time-to-Visit-Jaipur-Well-Answer..jpg",
+      "shortDescription": "City in Rajasthan, India",
+      "properties": [
+        {
+          "id": "18",
+          "name": "Jaipur Palace",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556688.jpg?k=50b0c15d8a9a0046b3e5e3baff4b8e2307e3f4a546ff2a7fa6de1bb712d6e676&o=&hp=1",
+          "rating": 4.4,
+          "address": "9 Amer Road, 302002 Jaipur, India",
+          "oldPrice": 4900,
+          "newPrice": 3700,
+          "latitude": "26.9124",
+          "longitude": "75.7873",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "116",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556688.jpg?k=50b0c15d8a9a0046b3e5e3baff4b8e2307e3f4a546ff2a7fa6de1bb712d6e676&o=&hp=1"
+            },
+            {
+              "id": "117",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556689.jpg?k=50b0c15d8a9a0046b3e5e3baff4b8e2307e3f4a546ff2a7fa6de1bb712d6e676&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "place": "Goa",
+      "placeImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3e/36/95/baga-sea-beach.jpg?w=600&h=400&s=1",
+      "shortDescription": "State in Western India",
+      "properties": [
+        {
+          "id": "19",
+          "name": "Goa Beach Resort",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556690.jpg?k=d342f68a5cfdbd2db3c7f34fd5f9ebf415c3f7c0f918b8db3f06cb085e5c7763&o=&hp=1",
+          "rating": 4.5,
+          "address": "32 Baga Beach, 403516 Goa, India",
+          "oldPrice": 5400,
+          "newPrice": 4200,
+          "latitude": "15.2993",
+          "longitude": "74.1240",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "118",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556690.jpg?k=d342f68a5cfdbd2db3c7f34fd5f9ebf415c3f7c0f918b8db3f06cb085e5c7763&o=&hp=1"
+            },
+            {
+              "id": "119",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556691.jpg?k=d342f68a5cfdbd2db3c7f34fd5f9ebf415c3f7c0f918b8db3f06cb085e5c7763&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "place": "Cochin",
+      "placeImage": "https://www.cityam.com/wp-content/uploads/2014/07/kerala-57ed69e13b692-57ed69e1c53b6.png",
+      "shortDescription": "City in Kerala, India",
+      "properties": [
+        {
+          "id": "20",
+          "name": "Cochin Comfort",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556692.jpg?k=8d7c3f0b276c13b57c70a8d074f5dd2563bb9df5a891cfbe52a6e5f15b7a6d52&o=&hp=1",
+          "rating": 4,
+          "address": "15 Marine Drive, 682031 Cochin, India",
+          "oldPrice": 4800,
+          "newPrice": 3500,
+          "latitude": "9.9312",
+          "longitude": "76.2673",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "120",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556692.jpg?k=8d7c3f0b276c13b57c70a8d074f5dd2563bb9df5a891cfbe52a6e5f15b7a6d52&o=&hp=1"
+            },
+            {
+              "id": "121",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556693.jpg?k=8d7c3f0b276c13b57c70a8d074f5dd2563bb9df5a891cfbe52a6e5f15b7a6d52&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "place": "Lucknow",
+      "placeImage": "https://lp-cms-production.imgix.net/2022-03/500pxRF_26117913.jpg",
+      "shortDescription": "City in Uttar Pradesh, India",
+      "properties": [
+        {
+          "id": "21",
+          "name": "Lucknow Lodge",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556694.jpg?k=5f9c8d528290b9b14c50a8a9c8a7410ad5c5e6e0739afdc024c004a4fa5e9fbb&o=&hp=1",
+          "rating": 4.2,
+          "address": "77 MG Road, 226001 Lucknow, India",
+          "oldPrice": 5100,
+          "newPrice": 3900,
+          "latitude": "26.8467",
+          "longitude": "80.9462",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "122",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556694.jpg?k=5f9c8d528290b9b14c50a8a9c8a7410ad5c5e6e0739afdc024c004a4fa5e9fbb&o=&hp=1"
+            },
+            {
+              "id": "123",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556695.jpg?k=5f9c8d528290b9b14c50a8a9c8a7410ad5c5e6e0739afdc024c004a4fa5e9fbb&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "place": "Indore",
+      "placeImage": "https://pbdindia.gov.in/Default/assets/front/images/indore.png",
+      "shortDescription": "City in Madhya Pradesh, India",
+      "properties": [
+        {
+          "id": "22",
+          "name": "Indore Inn",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556696.jpg?k=eb0e014db5f6442c84e9f2b5a6a586dedd6c3f164b8d76ee0e5b3d0f6d0e2d22&o=&hp=1",
+          "rating": 3.9,
+          "address": "33 MG Road, 452001 Indore, India",
+          "oldPrice": 4600,
+          "newPrice": 3400,
+          "latitude": "22.7196",
+          "longitude": "75.8577",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "124",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556696.jpg?k=eb0e014db5f6442c84e9f2b5a6a586dedd6c3f164b8d76ee0e5b3d0f6d0e2d22&o=&hp=1"
+            },
+            {
+              "id": "125",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556697.jpg?k=eb0e014db5f6442c84e9f2b5a6a586dedd6c3f164b8d76ee0e5b3d0f6d0e2d22&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "place": "Patna",
+      "placeImage": "https://static.india.com/wp-content/uploads/2014/09/Patna.jpg",
+      "shortDescription": "City in Bihar, India",
+      "properties": [
+        {
+          "id": "23",
+          "name": "Patna Pavilion",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556698.jpg?k=fc1dd6f8b695b23e6f769f88ae9f7b9a7372ab1b83ed9b33b5d396b5047d01ed&o=&hp=1",
+          "rating": 3.8,
+          "address": "88 Gandhi Maidan, 800001 Patna, India",
+          "oldPrice": 4500,
+          "newPrice": 3300,
+          "latitude": "25.5941",
+          "longitude": "85.1376",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "126",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556698.jpg?k=fc1dd6f8b695b23e6f769f88ae9f7b9a7372ab1b83ed9b33b5d396b5047d01ed&o=&hp=1"
+            },
+            {
+              "id": "127",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556699.jpg?k=fc1dd6f8b695b23e6f769f88ae9f7b9a7372ab1b83ed9b33b5d396b5047d01ed&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "place": "Chandigarh",
+      "placeImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/4c/43/64/the-rock-garden-of-chandigarh.jpg?w=600&h=400&s=1",
+      "shortDescription": "City and Union Territory in India",
+      "properties": [
+        {
+          "id": "24",
+          "name": "Chandigarh Charm",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556700.jpg?k=ff9643fb6b80e1ff4a3e2db1dd2e3e3c53e9056dc7d8fb795e1b34470a2a1365&o=&hp=1",
+          "rating": 4.3,
+          "address": "3 Sector 17, 160017 Chandigarh, India",
+          "oldPrice": 5000,
+          "newPrice": 3800,
+          "latitude": "30.7333",
+          "longitude": "76.7794",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "128",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556700.jpg?k=ff9643fb6b80e1ff4a3e2db1dd2e3e3c53e9056dc7d8fb795e1b34470a2a1365&o=&hp=1"
+            },
+            {
+              "id": "129",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556701.jpg?k=ff9643fb6b80e1ff4a3e2db1dd2e3e3c53e9056dc7d8fb795e1b34470a2a1365&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "place": "Nagpur",
+      "placeImage": "https://www.expedia.co.in/stories/wp-content/uploads/2022/07/Nagpur_Market.jpg",
+      "shortDescription": "City in Maharashtra, India",
+      "properties": [
+        {
+          "id": "25",
+          "name": "Nagpur Nest",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556702.jpg?k=7c58ff913f2e8b58e620b08cf61e8cbb2f5acff448e570d30ec163318f9b3441&o=&hp=1",
+          "rating": 4.1,
+          "address": "66 Wardha Road, 440015 Nagpur, India",
+          "oldPrice": 4800,
+          "newPrice": 3500,
+          "latitude": "21.1458",
+          "longitude": "79.0882",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "130",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556702.jpg?k=7c58ff913f2e8b58e620b08cf61e8cbb2f5acff448e570d30ec163318f9b3441&o=&hp=1"
+            },
+            {
+              "id": "131",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556703.jpg?k=7c58ff913f2e8b58e620b08cf61e8cbb2f5acff448e570d30ec163318f9b3441&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "place": "Thiruvananthapuram",
+      "placeImage": "https://deih43ym53wif.cloudfront.net/thiruvananthapuram-india-shutterstock_498424870_54ec620099.jpeg",
+      "shortDescription": "Capital city of Kerala, India",
+      "properties": [
+        {
+          "id": "26",
+          "name": "Trivandrum Treat",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556704.jpg?k=ad9789cc6a5a9df7a6a4a5ffbf248a2be1c6cdb2bc3b2483be9f7c3722b01c6c&o=&hp=1",
+          "rating": 4.2,
+          "address": "23 MG Road, 695001 Thiruvananthapuram, India",
+          "oldPrice": 4700,
+          "newPrice": 3400,
+          "latitude": "8.5241",
+          "longitude": "76.9366",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "132",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556704.jpg?k=ad9789cc6a5a9df7a6a4a5ffbf248a2be1c6cdb2bc3b2483be9f7c3722b01c6c&o=&hp=1"
+            },
+            {
+              "id": "133",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556705.jpg?k=ad9789cc6a5a9df7a6a4a5ffbf248a2be1c6cdb2bc3b2483be9f7c3722b01c6c&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "place": "Bhubaneswar",
+      "placeImage": "https://hub.beesmart.city/hubfs/blogposts/city-portrait-bhubaneswar/bhubaneswar-smart-city-portrait-social.jpg",
+      "shortDescription": "Capital city of Odisha, India",
+      "properties": [
+        {
+          "id": "27",
+          "name": "Bhubaneswar Bliss",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556706.jpg?k=6ed4fc1d4f5a5d26d3c6a89c72dd90f64b9e8e3c5f938ec21b315dc16b51fc77&o=&hp=1",
+          "rating": 4,
+          "address": "55 Janpath, 751001 Bhubaneswar, India",
+          "oldPrice": 4500,
+          "newPrice": 3300,
+          "latitude": "20.2961",
+          "longitude": "85.8245",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "134",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556706.jpg?k=6ed4fc1d4f5a5d26d3c6a89c72dd90f64b9e8e3c5f938ec21b315dc16b51fc77&o=&hp=1"
+            },
+            {
+              "id": "135",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556707.jpg?k=6ed4fc1d4f5a5d26d3c6a89c72dd90f64b9e8e3c5f938ec21b315dc16b51fc77&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "place": "Raipur",
+      "placeImage": "https://i.ytimg.com/vi/rp9zus0vuV8/maxresdefault.jpg",
+      "shortDescription": "Capital city of Chhattisgarh, India",
+      "properties": [
+        {
+          "id": "28",
+          "name": "Raipur Retreat",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556708.jpg?k=c47681df9b8e897bfa6cb76edbcc047c72f4d7267c9f7c2d0c21fa25ea0cd9c8&o=&hp=1",
+          "rating": 4.1,
+          "address": "99 GE Road, 492001 Raipur, India",
+          "oldPrice": 4600,
+          "newPrice": 3400,
+          "latitude": "21.2514",
+          "longitude": "81.6296",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "136",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556708.jpg?k=c47681df9b8e897bfa6cb76edbcc047c72f4d7267c9f7c2d0c21fa25ea0cd9c8&o=&hp=1"
+            },
+            {
+              "id": "137",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556709.jpg?k=c47681df9b8e897bfa6cb76edbcc047c72f4d7267c9f7c2d0c21fa25ea0cd9c8&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "place": "Kolkata",
+      "placeImage": "https://img.onmanorama.com/content/dam/mm/en/travel/outside-kerala/images/2022/6/20/kolkata.jpg",
+      "shortDescription": "Capital of West Bengal, India",
+      "properties": [
+        {
+          "id": "29",
+          "name": "Kolkata Komfort",
+          "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556710.jpg?k=2146dfc2c7e72f7187b3c5f1346207c2e8c5c5f36a0b5b95a5b5d0572a7b4c43&o=&hp=1",
+          "rating": 4.3,
+          "address": "1 Park Street, 700016 Kolkata, India",
+          "oldPrice": 5000,
+          "newPrice": 3700,
+          "latitude": "22.5726",
+          "longitude": "88.3639",
+          "slotsAvailable": [
+            "9:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00"
+          ],
+          "photos": [
+            {
+              "id": "138",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556710.jpg?k=2146dfc2c7e72f7187b3c5f1346207c2e8c5c5f36a0b5b95a5b5d0572a7b4c43&o=&hp=1"
+            },
+            {
+              "id": "139",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/432556711.jpg?k=2146dfc2c7e72f7187b3c5f1346207c2e8c5c5f36a0b5b95a5b5d0572a7b4c43&o=&hp=1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
